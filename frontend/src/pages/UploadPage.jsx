@@ -5,7 +5,7 @@ import { todayStr } from '../utils/calculations';
 
 const ACCENT = '#FF85A1';
 const BORDER = '#FCE4EC';
-const API = 'http://localhost:8000';
+const API = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 const MEAL_TYPES = ['아침', '점심', '저녁', '간식'];
 const CATEGORIES = ['밥/면류', '국/찌개', '나물/채소', '육류', '해산물', '계란류'];
 const CAT_ICONS = { '밥/면류': '🍚', '국/찌개': '🍲', '나물/채소': '🥬', '육류': '🥩', '해산물': '🐟', '계란류': '🥚' };
@@ -63,7 +63,7 @@ export default function UploadPage() {
       setPrediction(data);
       setPhase('confirm');
     } catch (e) {
-      setError(e.message.includes('fetch') ? '백엔드 서버에 연결할 수 없어요 (localhost:8000)' : e.message);
+      setError(e.message.includes('fetch') ? '백엔드 서버에 연결할 수 없어요' : e.message);
       setPhase('ready');
     }
   }
