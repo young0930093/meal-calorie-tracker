@@ -1,0 +1,40 @@
+# Environment variables (NEVER commit these)
+.env
+.env.local
+.env.*.local
+frontend/.env
+backend/.env
+
+# Node
+node_modules/
+npm-debug.log*
+dist/
+.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.uv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Build output
+build/
+out/

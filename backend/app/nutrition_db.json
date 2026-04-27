@@ -1,0 +1,242 @@
+{
+  "rice": {
+    "name_ko": "쌀밥",
+    "category": "밥/면류",
+    "calorie": 300,
+    "carbs_g": 66,
+    "protein_g": 6,
+    "fat_g": 1
+  },
+  "bibimbap": {
+    "name_ko": "비빔밥",
+    "category": "밥/면류",
+    "calorie": 560,
+    "carbs_g": 85,
+    "protein_g": 22,
+    "fat_g": 14
+  },
+  "fried_rice": {
+    "name_ko": "볶음밥",
+    "category": "밥/면류",
+    "calorie": 490,
+    "carbs_g": 72,
+    "protein_g": 14,
+    "fat_g": 16
+  },
+  "ramyeon": {
+    "name_ko": "라면",
+    "category": "밥/면류",
+    "calorie": 500,
+    "carbs_g": 75,
+    "protein_g": 12,
+    "fat_g": 17
+  },
+  "japchae": {
+    "name_ko": "잡채",
+    "category": "밥/면류",
+    "calorie": 250,
+    "carbs_g": 42,
+    "protein_g": 7,
+    "fat_g": 6
+  },
+  "kimchi_jjigae": {
+    "name_ko": "김치찌개",
+    "category": "국/찌개",
+    "calorie": 180,
+    "carbs_g": 10,
+    "protein_g": 14,
+    "fat_g": 9
+  },
+  "doenjang_jjigae": {
+    "name_ko": "된장찌개",
+    "category": "국/찌개",
+    "calorie": 150,
+    "carbs_g": 12,
+    "protein_g": 11,
+    "fat_g": 6
+  },
+  "sundubu_jjigae": {
+    "name_ko": "순두부찌개",
+    "category": "국/찌개",
+    "calorie": 170,
+    "carbs_g": 8,
+    "protein_g": 13,
+    "fat_g": 9
+  },
+  "miyeok_guk": {
+    "name_ko": "미역국",
+    "category": "국/찌개",
+    "calorie": 60,
+    "carbs_g": 5,
+    "protein_g": 5,
+    "fat_g": 2
+  },
+  "seolleongtang": {
+    "name_ko": "설렁탕",
+    "category": "국/찌개",
+    "calorie": 210,
+    "carbs_g": 8,
+    "protein_g": 20,
+    "fat_g": 11
+  },
+  "spinach_namul": {
+    "name_ko": "시금치나물",
+    "category": "나물/채소",
+    "calorie": 50,
+    "carbs_g": 5,
+    "protein_g": 3,
+    "fat_g": 2
+  },
+  "kongnamul": {
+    "name_ko": "콩나물무침",
+    "category": "나물/채소",
+    "calorie": 45,
+    "carbs_g": 4,
+    "protein_g": 4,
+    "fat_g": 2
+  },
+  "kimchi": {
+    "name_ko": "김치",
+    "category": "나물/채소",
+    "calorie": 30,
+    "carbs_g": 5,
+    "protein_g": 2,
+    "fat_g": 0
+  },
+  "kkakdugi": {
+    "name_ko": "깍두기",
+    "category": "나물/채소",
+    "calorie": 25,
+    "carbs_g": 5,
+    "protein_g": 1,
+    "fat_g": 0
+  },
+  "japchae_vegetables": {
+    "name_ko": "숙주나물",
+    "category": "나물/채소",
+    "calorie": 35,
+    "carbs_g": 3,
+    "protein_g": 3,
+    "fat_g": 1
+  },
+  "bulgogi": {
+    "name_ko": "불고기",
+    "category": "육류",
+    "calorie": 380,
+    "carbs_g": 12,
+    "protein_g": 30,
+    "fat_g": 22
+  },
+  "samgyeopsal": {
+    "name_ko": "삼겹살",
+    "category": "육류",
+    "calorie": 520,
+    "carbs_g": 0,
+    "protein_g": 24,
+    "fat_g": 46
+  },
+  "dakgalbi": {
+    "name_ko": "닭갈비",
+    "category": "육류",
+    "calorie": 350,
+    "carbs_g": 25,
+    "protein_g": 30,
+    "fat_g": 14
+  },
+  "galbi": {
+    "name_ko": "갈비",
+    "category": "육류",
+    "calorie": 440,
+    "carbs_g": 10,
+    "protein_g": 28,
+    "fat_g": 32
+  },
+  "jeyuk_bokkeum": {
+    "name_ko": "제육볶음",
+    "category": "육류",
+    "calorie": 390,
+    "carbs_g": 15,
+    "protein_g": 28,
+    "fat_g": 24
+  },
+  "haemul_pajeon": {
+    "name_ko": "해물파전",
+    "category": "해산물",
+    "calorie": 320,
+    "carbs_g": 35,
+    "protein_g": 18,
+    "fat_g": 12
+  },
+  "ojingeo_bokkeum": {
+    "name_ko": "오징어볶음",
+    "category": "해산물",
+    "calorie": 210,
+    "carbs_g": 18,
+    "protein_g": 22,
+    "fat_g": 6
+  },
+  "saewoo_gui": {
+    "name_ko": "새우구이",
+    "category": "해산물",
+    "calorie": 130,
+    "carbs_g": 2,
+    "protein_g": 24,
+    "fat_g": 3
+  },
+  "godeungeo_gui": {
+    "name_ko": "고등어구이",
+    "category": "해산물",
+    "calorie": 280,
+    "carbs_g": 0,
+    "protein_g": 26,
+    "fat_g": 18
+  },
+  "jeon_haemul": {
+    "name_ko": "낙지볶음",
+    "category": "해산물",
+    "calorie": 190,
+    "carbs_g": 14,
+    "protein_g": 20,
+    "fat_g": 5
+  },
+  "gyeran_bap": {
+    "name_ko": "계란밥",
+    "category": "계란류",
+    "calorie": 360,
+    "carbs_g": 58,
+    "protein_g": 14,
+    "fat_g": 8
+  },
+  "gyeran_jjim": {
+    "name_ko": "계란찜",
+    "category": "계란류",
+    "calorie": 120,
+    "carbs_g": 3,
+    "protein_g": 11,
+    "fat_g": 7
+  },
+  "gyeran_mari": {
+    "name_ko": "계란말이",
+    "category": "계란류",
+    "calorie": 180,
+    "carbs_g": 4,
+    "protein_g": 13,
+    "fat_g": 12
+  },
+  "gyeran_gui": {
+    "name_ko": "계란후라이",
+    "category": "계란류",
+    "calorie": 140,
+    "carbs_g": 1,
+    "protein_g": 9,
+    "fat_g": 11
+  },
+  "omurice": {
+    "name_ko": "오므라이스",
+    "category": "계란류",
+    "calorie": 480,
+    "carbs_g": 65,
+    "protein_g": 18,
+    "fat_g": 16
+  }
+}
